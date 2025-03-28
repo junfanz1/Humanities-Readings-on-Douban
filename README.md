@@ -1301,8 +1301,9 @@ Start Month, Year:  3, 2021
 - 刘瑜《可能性的艺术》随感与摘录
 - 王沪宁《狮城舌战》读后感与摘录
 - 《许倬云说美国》摘录
+- 芝加哥游记
 
-## 3. 豆瓣被删书评一览（[备份](https://github.com/junfanz1/Douban/)）
+## 3. 豆瓣被删/锁定书评/日记一览（[备份](https://github.com/junfanz1/Douban/)）
 
 ![image](https://github.com/user-attachments/assets/3c9a34fd-c1d4-4d7b-9ed0-75f0b78321ec)
 
