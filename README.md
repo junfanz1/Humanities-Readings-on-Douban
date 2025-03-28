@@ -1304,6 +1304,7 @@ Start Month, Year:  3, 2021
 
 ## 3. 豆瓣被删书评一览（[备份](https://github.com/junfanz1/Douban/)）
 
+![image](https://github.com/user-attachments/assets/3c9a34fd-c1d4-4d7b-9ed0-75f0b78321ec)
 
 ![image](https://user-images.githubusercontent.com/56275127/189537117-70a707c4-28e1-49e3-a964-18916ba88e31.png)
 
