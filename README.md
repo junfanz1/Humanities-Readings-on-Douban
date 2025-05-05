@@ -1,4 +1,8 @@
-# Coursera Certificates
+# Humanities Readings Highlights
+
+  - <mark>[__批判秦晖教授新书《拯救民主》的诸多论点论据__](https://github.com/junfanz1/Humanities-Readings-on-Douban/blob/main/%E6%89%B9%E5%88%A4%E7%A7%A6%E6%99%96%E6%95%99%E6%8E%88%E6%96%B0%E4%B9%A6%E3%80%8A%E6%8B%AF%E6%95%91%E6%B0%91%E4%B8%BB%E3%80%8B%E7%9A%84%E8%AF%B8%E5%A4%9A%E8%AE%BA%E7%82%B9%E8%AE%BA%E6%8D%AE.md)</mark> <img src="https://github.com/junfanz1/Humanities-Readings-on-Douban" alt="GitHub Stars" />
+
+## Coursera Certificates
 
 ---CERTIFICATIONS---
 
